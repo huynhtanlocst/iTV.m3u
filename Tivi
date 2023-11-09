@@ -28,3 +28,33 @@ http://is.am/5jmv/htl/vieon/vtv8_hd.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://is.am/5jmj/htl/vieon/vtv9_hd.m3u8
 
+##⚡| 𝕋𝕙𝕚𝕖̂́𝕥 𝕐𝕖̂́𝕦
+#EXTINF:-1 group-title="⚡| 𝕋𝕙𝕚𝕖̂́𝕥 𝕐𝕖̂́𝕦" tvg-id="antvhd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/05/29/842v7ooz_antv5a464bbf9945e933175ca2a9603cbace_296_168.webp" group-logo="https://i.ibb.co/pdn7x5g/image.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/05/29/6wcqgx0o_antv6f5c0b4042fc7777d54ce1b0ba22a056_296_168.webp", 𝔸ℕ𝕋𝕍 | Công an Nhân dân  
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
+#EXTINF:-1 group-title="⚡| 𝕋𝕙𝕚𝕖̂́𝕥 𝕐𝕖̂́𝕦" tvg-id="qpvnhd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/08/zrmo78ik_microsoftteams-imagede183b12d07781976c0090a26d7bef37_296_168.webp", ℚℙ𝕍ℕ | Quốc phòng Việt Nam
+https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
+#EXTINF:-1 group-title="⚡| 𝕋𝕙𝕚𝕖̂́𝕥 𝕐𝕖̂́𝕦" tvg-id="nhandan" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/w5rqtt1d_nhan-dan_296_168.webp", ℕ𝕙𝕒̂𝕟 𝔻𝕒̂𝕟 𝕋𝕍 | Truyền hình Nhân dân 
+https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/index.m3u8
+#EXTINF:-1 group-title="⚡| 𝕋𝕙𝕚𝕖̂́𝕥 𝕐𝕖̂́𝕦" tvg-id="quochoi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/20/idr34kvj_quoc-hoi0a7a791db255878c76024281c045607d_296_168.webp", ℚ𝕦𝕠̂́𝕔 ℍ𝕠̣̂𝕚 | Quốc hội Việt Nam 
+http://113.164.225.140:1935/live/quochoitvlive.stream/playlist.m3u8
+#EXTINF:-1 group-title="⚡| 𝕋𝕙𝕚𝕖̂́𝕥 𝕐𝕖̂́𝕦" tvg-id="ttxvnhd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/6gx5feuu_vnews_296_168.webp", 𝕍.ℕ𝕖𝕨𝕤 | Truyền hình Thông tấn 
+https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
+#EXTINF:-1 group-title="⚡| 𝕋𝕙𝕚𝕖̂́𝕥 𝕐𝕖̂́𝕦" tvg-id="vovtvhd" tvg-logo="https://media.truyenhinhdulich.vn/upload/files/image/videobg/livestream_bg.jpg", 𝕍𝕆𝕍 𝕋𝕍 | Tiếng nói Việt Nam
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
