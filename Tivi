@@ -1,1 +1,11 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 url="https://hqth.me/htltivi"
+### List lấy nguồn link miễn phí từ các trang web truyền hình, các nguồn chia sẽ từ cộng đồng mạng và biên tập lại.
+### List này chỉ biên tập cho cá nhân và gia đình. Vì vậy, nếu phù hợp với nhu cầu xem truyền hình, giải trí thì mọi người có thể chia sẻ list này cho người thân, gia đình bạn bè sử dụng mà không mất bất cứ chi phí nào.
 
+###⭐️🇻🇳| 𝕍𝕋𝕍
+#EXTINF:-1 group-title="⭐️🇻🇳| 𝕍𝕋𝕍" tvg-id="vtv1hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/20/ooekm5pv_vtv1130a40e90b5899a59e9592786b2ec05c_296_168.webp" group-logo="https://static.wikia.nocookie.net/logos/images/1/13/VTV_logo_%28b%E1%BA%A3n_2%29.png/revision/latest?cb=20221009235819&path-prefix=vi", 𝕍𝕋𝕍𝟙 
+http://is.am/5vwb/htl/tv360/vtv1.m3u8
+#EXTINF:-1 group-title="⭐️🇻🇳| 𝕍𝕋𝕍" tvg-id="vtv2hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/14/8jxfvivt_vtv2ee9c08aad4e297b156d0b454e83fd10d_296_168.webp", 𝕍𝕋𝕍𝟚 
+http://is.am/5vwc/htl/tv360/vtv2.m3u8
+#EXTINF:-1 group-title="⭐️🇻🇳| 𝕍𝕋𝕍" tvg-id="vtv3hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/05/31/4z5n1bn2_vtv39449726ea4c5db921e30f2237426d776_296_168.webp", 𝕍𝕋𝕍𝟛 
+http://is.am/5vwd/htl/tv360/vtv3.m3u8
