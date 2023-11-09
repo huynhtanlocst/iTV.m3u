@@ -304,7 +304,45 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 group-title="✈️| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 𝔹𝕒̆́𝕔" tvg-id="yenbai" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/o7ur00yw_yenbai900320c6fc579e6dc590df8437218ede_296_168.webp", 𝕐𝕋𝕍 | Yên Bái 
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
-
+###⛵| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘 19 kênh
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="binhdinh" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_binh-dinh_145672697062.jpg", 𝔹𝕋𝕍 | Bình Định
+http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="binhthuan" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/uptrequc_binh-thuan_296_168.webp", 𝔹𝕋𝕍 | Bình Thuận
+https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="danang1" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/d8ub5k12_da-nang-1_296_168.webp", 𝔻𝕒ℕ𝕒𝕟𝕘𝕋𝕍𝟙 | Đà Nẵng 1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="danang2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/gkswvyqt_da-nang-2_296_168.webp", 𝔻𝕒ℕ𝕒𝕟𝕘𝕋𝕍𝟚 | Đà Nẵng 2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="daklak" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/dyrxfpju_dak-lak_296_168.webp", 𝔻ℝ𝕋 | Đắk Lắk
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="daknong" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/f9he9pvi_dak-nong_296_168.webp", ℙ𝕋𝔻 | Đắk Nông
+https://ngvauezm51liv.vcdn.cloud/live/smil:daknong.smil/playlist.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="gialai" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/vuwiap1r_gialai_296_168.webp", 𝕋ℍ𝔾𝕃 | Gia Lai
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="khanhhoa" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/21/0rpnq0fk_khanh-hoa_296_168.webp", 𝕂𝕋𝕍 | Khánh Hòa
+http://210.245.20.94/hls/ktv1.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="kontum" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/15ksog4n_kontum-1_296_168.webp", 𝕂ℝ𝕋 | Kon Tum
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="lamdong" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/dg27e6ku_lam-dong_296_168.webp", 𝕃𝕋𝕍 | Lâm Đồng
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="nghean" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/2f96yu6e_nghe-anc59b1eb4f19eb9b3ab6ec12ffd77dd69_296_168.webp", ℕ𝕋𝕍 | Nghệ An
+http://103.90.220.236/natvlive/tv1live.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="ninhthuan" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/nt29fpd8_ninhthuan_296_168.webp", ℕ𝕋𝕍 | Ninh Thuận
+https://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="phuyen" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_phu-yen_151298361962.png", ℙ𝕋ℙ | Phú Yên
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="quangbinh" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/ij08jiqu_quangbinhde0917e1443678e11e0767ba57c5daa4_296_168.webp", ℚ𝔹𝕋𝕍 | Quảng Bình
+http://is.am/5vpt/htl/nethub/quangbinh.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="quangnam" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/deyzty1b_quang-nam_296_168.webp", ℚℝ𝕋 | Quảng Nam
+http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="quangngai" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/31jzvzre_quangngai_296_168.webp", ℙ𝕋ℚ | Quảng Ngãi
+http://118.107.85.5:1935/live/smil:PTQ.smil/chunklist_w1747857222_b1384000.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="quangtri" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/17/ayvc9udv_quangtri_296_168.webp", ℚℝ𝕋𝕍 | Quảng Trị
+http://103.90.220.236/qrtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="thanhhoa" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", 𝕋𝕋𝕍 | Thanh Hóa
+http://is.am/5vps/htl/nethub/thanhhoa.m3u8
+#EXTINF:-1 group-title="⛵| 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="thuathienhue" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/p5yvku7m_thua-thien-hue_296_168.webp", 𝕋ℝ𝕋 | Thừa Thiên Huế
+http://trtlive.f77de468.cdnviet.com/TRT-Online/chunklist.m3u8
 
 
 
