@@ -344,8 +344,82 @@ http://is.am/5vps/htl/nethub/thanhhoa.m3u8
 #EXTINF:-1 group-title="⛵| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 𝕋𝕣𝕦𝕟𝕘" tvg-id="thuathienhue" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/p5yvku7m_thua-thien-hue_296_168.webp", 𝕋ℝ𝕋 | Thừa Thiên Huế
 http://trtlive.f77de468.cdnviet.com/TRT-Online/chunklist.m3u8
 
-
-
+###⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞 34 kênh
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/uvjjp3zi_an-giang_296_168.webp", 𝔸𝕋𝕍 | An Giang
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/playlist.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="vungtau" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/vmq8dni1_ba-ria-vung-tau_296_168.webp", 𝔹ℝ𝕋 | Bà Rịa Vũng Tàu
+http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w189583188.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="baclieu" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/8bppmif1_bac-lieu_296_168.webp", 𝔹𝕃𝕋𝕍 | Bạc Liêu
+https://tv.thbl.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="bentre" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/21/xonh4nd2_ben-tre_296_168.webp", 𝕋ℍ𝔹𝕋 | Bến Tre
+https://1012163901.vnns.net/bentre.adm.480p.tms/playlist.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="binhduong1" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ed7v7ycs_binh-duong-1_296_168.webp", 𝔹𝕋𝕍𝟙 | Bình Dương 1
+https://tiemnhazunn.click/btv/getlink.php?id=btv1011220
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="binhduong2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/yeui1ik3_binh-duong-2_296_168.webp", 𝔹𝕋𝕍𝟚 | Bình Dương 2
+https://tiemnhazunn.click/btv/getlink.php?id=btv2011220
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="binhduong3" tvg-logo="https://i.ytimg.com/vi/Z94LaGWB75k/maxresdefault.jpg", 𝔹𝕋𝕍𝟛 | Bình Dương 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://is.am/5v9z/htl/nethub/binhduong3.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="imoviehd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/7spucc0f_imovie_296_168.webp", 𝔹𝕋𝕍𝟜 | Bình Dương 4 iMOVIE
+http://is.am/5jxt/htl/tv360_ops/binhduong4.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="btv5hd" tvg-logo="https://imgvlive.vtvcab.vn/720X405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg", 𝔹𝕋𝕍𝟝 | ON Sports Action
+http://is.am/5vrd/htl/vtvcab/btv5.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="binhduong6" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/15/p6h1uiy5_binhduong6_296_168.webp", 𝔹𝕋𝕍𝟞 | Bình Dương 6 Viet Teen
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://is.am/5jpz/htl/vieon_ops/binhduong6.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="anvienhd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/5ztyns10_anvien-tv_296_168.webp", 𝔹𝕋𝕍𝟡 | An Viên TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://is.am/5k9t/htl/vieon/anvien_hd.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="binhduong11" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/33ms32vg_binh-duong-11_296_168.webp", 𝔹𝕋𝕍𝟙𝟙 | Top home shopping
+https://tiemnhazunn.click/btv/getlink.php?id=btv11011220
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="binhphuoc1" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/4tifgo6e_binh-phuoc-1_296_168.webp", 𝔹ℙ𝕋𝕍𝟙 | Bình Phước 1
+http://103.90.220.236/bptvlive/tv1live.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="binhphuoc2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/vn4bgptg_binh-phuoc-2_296_168.webp", 𝔹ℙ𝕋𝕍𝟚 | Bình Phước 2
+https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/chunklist.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="camau" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/15/v9up84rb_camautv_296_168.webp", ℂ𝕋𝕍 | Cà Mau
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="cantho" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/c5tuh0ng_can-tho_296_168.webp", 𝕋ℍ𝕋ℙℂ𝕋 | Cần Thơ
+https://live.canthotv.vn/live/tv/playlist.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="dongnai1" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/sc8akpju_dong-nai-1_296_168.webp", 𝔻ℕℝ𝕋𝕍𝟙 | Đồng Nai 1
+http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_w1168178406_b1384000.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="dongnai2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/tscbn8gp_dong-nai-2_296_168.webp", 𝔻ℕℝ𝕋𝕍𝟚 | Đồng Nai 2
+http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w1270205647_b1384000.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="dongnai3" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/02/18/qp2bws69_dongnai3_296_168.webp", 𝔻ℕℝ𝕋𝕍𝟛 | Đồng Nai 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://is.am/5j4p/htl/vieon/dongnai3.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="dongthap" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/11/t18jfg4a_dong-thap-2_296_168.webp", 𝕋ℍ𝔻𝕋𝟙 | Đồng Tháp 1
+https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="dongthap2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/07/rvmuq9sp_dong-thap-2_296_168.webp", 𝕋ℍ𝔻𝕋𝟚 | Miền Tây
+https://64d0d74b76158.streamlock.net:443/THDT2/thdttv2/chunklist_w1327792011.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="haugiang" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/05/09/y2wqgi6p_thumb-hau-giang_296_168.webp", ℍ𝔾𝕋𝕍 | Hậu Giang
+https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="kiengiang" tvg-logo="https://i.ytimg.com/vi/VyjVJ16goK4/hq720.jpg", 𝕂𝔾 | Kiên Giang
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="kiengiang1" tvg-logo="https://i.ytimg.com/vi/IO5DqZZgmVw/maxresdefault.jpg", 𝕂𝔾𝟙 | Kiên Giang 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="longan" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ch0rj2o1_long-an_296_168.webp", 𝕃𝔸𝟛𝟜 | Long An
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/LONGAN-SD-ABR/HTV-ABR/LONGAN-SD-720p/playlist.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="soctrang" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/01/4jjr657s_soctrang_296_168.webp", 𝕊𝕋𝕍𝟙 | Sóc Trăng 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://is.am/5j4h/htl/vieon/soctrang1.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="tayninhhd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/3zwahyeb_tay-ninh_296_168.webp", 𝕋𝕋𝕍𝟙𝟙 | Tây Ninh
+http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="tiengiang" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/zz2iq4do_tien-giang_296_168.webp", 𝕋ℍ𝕋𝔾 | Tiền Giang
+http://123.25.238.45:1935/live/thtg/chunklist.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="travinh" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/07/xxkfadmf_tra-vinh_296_168.webp", 𝕋ℍ𝕋𝕍 | Trà Vinh
+https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="travinh2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/23/shc7wvno_thtv2_thumb_296_168.webp", 𝕋ℍ𝕋𝕍𝟚 | Trà Vinh 2
+https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="vinhlong1hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/09/ikcx1xdf_1a7aaaa44c285bc686c9dc6aa1b868011_296_168.webp", 𝕋ℍ𝕍𝕃𝟙 | Vĩnh Long 1
+http://is.am/5vww/htl/tv360/vinhlong1.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="vinhlong2hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/fstbcaqz_thvl2-moi14271023d66c7689e4dd5709bbe22024_296_168.webp", 𝕋ℍ𝕍𝕃𝟚 | Vĩnh Long 2
+http://is.am/5vwm/htl/tv360/vinhlong2.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="vinhlong3hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/96zx88xd_thvl3_296_168.webp", 𝕋ℍ𝕍𝕃𝟛 | Vĩnh Long 3
+http://is.am/5vwn/htl/tv360/vinhlong3.m3u8
+#EXTINF:-1 group-title="⛺| 𝕋ℍ 𝕄𝕚𝕖̂̀𝕟 ℕ𝕒𝕞" tvg-id="vinhlong4hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/bayzt9n8_thvl4_296_168.webp", 𝕋ℍ𝕍𝕃𝟜 | Vĩnh Long 4
+http://is.am/5vwx/htl/tv360/vinhlong4.m3u8
 
 
 
