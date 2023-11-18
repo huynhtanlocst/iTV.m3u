@@ -133,7 +133,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv4/index.m3u8
 #EXTINF:-1 group-title="☪️| 𝕊ℂ𝕋𝕍" tvg-id="sctv5hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/5_4efd92d7.jpg", 𝕊ℂ𝕋𝕍𝟝ˢᶜᵗᵛ | SCJ TV Shopping
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/index.m3u8
-#EXTINF:-1 group-title="☪️| 𝕊ℂ𝕋𝕍" tvg-id="sctv6hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_132935f2.jpg", 𝕊ℂ𝕋𝕍𝟞ˢᶜᵗᵛ | FIM360 Sóng nhạc
+#EXTINF:-1 group-title="☪️| 𝕊ℂ𝕋𝕍" tvg-id="sctv6hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_132935f2.jpg", 𝕊ℂ𝕋𝕍𝟞ˢᶜᵗᵛ | FIM360 Phím truyện
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
 #EXTINF:-1 group-title="☪️| 𝕊ℂ𝕋𝕍" tvg-id="sctv7hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_15259bbf.jpg", 𝕊ℂ𝕋𝕍𝟟ˢᶜᵗᵛ | Sàn diễn và Sân khấu
@@ -145,7 +145,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
 #EXTINF:-1 group-title="☪️| 𝕊ℂ𝕋𝕍" tvg-id="sctv9hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/9_2e957ae2.jpg", 𝕊ℂ𝕋𝕍𝟡ˢᶜᵗᵛ | Phim Châu Á
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
-#EXTINF:-1 group-title="☪️| 𝕊ℂ𝕋𝕍" tvg-id="sctv10hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_dd39c053.jpg", 𝕊ℂ𝕋𝕍𝟙𝟘ˢᶜᵗᵛ | VTV Hyundai Home Shopping
+#EXTINF:-1 group-title="☪️| 𝕊ℂ𝕋𝕍" tvg-id="sctv10hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_dd39c053.jpg", 𝕊ℂ𝕋𝕍𝟙𝟘ˢᶜᵗᵛ | Mua sắm 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8
 #EXTINF:-1 group-title="☪️| 𝕊ℂ𝕋𝕍" tvg-id="sctv11hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/11_18513b6b.jpg", 𝕊ℂ𝕋𝕍𝟙𝟙ˢᶜᵗᵛ | TV Star Giải trí tổng hợp
@@ -161,7 +161,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
 http://is.am/5j7c/htl/sctv/SCTV14.m3u8
 #EXTINF:-1 group-title="☪️| 𝕊ℂ𝕋𝕍" tvg-id="sctv15hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/15_f6a8241e.jpg", 𝕊ℂ𝕋𝕍𝟙𝟝ˢᶜᵗᵛ | SSport 2
 http://is.am/5j7d/htl/sctv/SCTV15.m3u8
-#EXTINF:-1 group-title="☪️| 𝕊ℂ𝕋𝕍" tvg-id="sctv16hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/16_47eb3436.jpg", 𝕊ℂ𝕋𝕍𝟙𝟞ˢᶜᵗᵛ | Phim nước ngoài đặc sắc
+#EXTINF:-1 group-title="☪️| 𝕊ℂ𝕋𝕍" tvg-id="sctv16hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/16_47eb3436.jpg", 𝕊ℂ𝕋𝕍𝟙𝟞ˢᶜᵗᵛ | Phim nước ngoài 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
 #EXTINF:-1 group-title="☪️| 𝕊ℂ𝕋𝕍" tvg-id="sctv17hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/17_03ba5e54.jpg", 𝕊ℂ𝕋𝕍𝟙𝟟ˢᶜᵗᵛ | SSport
