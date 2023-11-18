@@ -148,7 +148,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
 #EXTINF:-1 group-title="☪️| 𝕊ℂ𝕋𝕍" tvg-id="sctv10hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_dd39c053.jpg", 𝕊ℂ𝕋𝕍𝟙𝟘ˢᶜᵗᵛ | Mua sắm 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8
-#EXTINF:-1 group-title="☪️| 𝕊ℂ𝕋𝕍" tvg-id="sctv11hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/11_18513b6b.jpg", 𝕊ℂ𝕋𝕍𝟙𝟙ˢᶜᵗᵛ | TV Star Giải trí tổng hợp
+#EXTINF:-1 group-title="☪️| 𝕊ℂ𝕋𝕍" tvg-id="sctv11hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/11_18513b6b.jpg", 𝕊ℂ𝕋𝕍𝟙𝟙ˢᶜᵗᵛ | Văn hóa & Nghệ thuật
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8
 #EXTINF:-1 group-title="☪️| 𝕊ℂ𝕋𝕍" tvg-id="sctv12hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/12_c58b7453.jpg", 𝕊ℂ𝕋𝕍𝟙𝟚ˢᶜᵗᵛ | Du lịch & Khám phá
